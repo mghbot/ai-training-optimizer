@@ -1,0 +1,16 @@
+# Core dependencies
+torch>=2.0.0
+numpy>=1.21.0
+psutil>=5.8.0
+
+# Optional dependencies for datasets
+torchvision>=0.15.0
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=3.0.0
+
+# Development
+black>=22.0.0
+flake8>=4.0.0
+mypy>=0.950
